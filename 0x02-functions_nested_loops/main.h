@@ -1,6 +1,6 @@
 #ifndef HEADER_FILE
 #define HEADER_FILE
 
-int putchar(char a)
+int _putchar(char a)
 
 #endif
