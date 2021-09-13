@@ -1,5 +1,5 @@
 #include "main.h"
-#inlcude <stdio.h>
+#include <stdio.h>
 /**
  * _strspn - search a string for a set of bytes
  * @s: char string array
